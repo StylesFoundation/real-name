@@ -18,6 +18,7 @@
 | Wander_sigma、o1wo | 王浩然 |
 | Potion | 李博学 |
 | renshengongji | 邱梓轩 |
+| langya | 陈琦元 |
 
 ## 格式与收录准则
 
