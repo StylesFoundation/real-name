@@ -31,6 +31,10 @@
 | 胡晨光、Sh1v3ring | 李明泽 |
 | 挂面 | 钱范荣 |
 | a114/a某人 | 王方晋 |
+| 汐洛、笙玖、笙凌、凌诺、guimc | 黄煜 |
+| MecoModer | 宁世鑫 |
+| GSCCSDSUN | 孙逸晟 |
+| SYER/FlyingMoleMan | 胡锦鑫 |
 
 ## 格式与收录准则
 
