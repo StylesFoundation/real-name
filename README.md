@@ -20,21 +20,28 @@
 | renshengongji | 邱梓轩 |
 | langya | 陈琦元 |
 | Nya | 胡擎天 |
-| 玄喵喵/冻牛奶/ImFrozenNeko/ShiraMorina | *陈欣蘅(需要确认)* |
+| 玄喵喵、ImFrozenNeko | 陈欣蘅 |
 | xiaohanbao_502 | 沈天皓 |
 | ChaoJi | 肖浩楠 |
 | H0peAura | 曾籍 |
 | RainAura | 张玉强 |
-| 黄皮/黄姜 | 彭子阳 |
+| 黄皮、黄姜 | 彭子阳 |
 | SuperSkidder | 高宇 |
 | K/Illusion、陈锦 | 黄正扬 |
 | 胡晨光、Sh1v3ring | 李明泽 |
 | 挂面 | 钱范荣 |
-| a114/a某人 | 王方晋 |
+| a114、a某人 | 王方晋 |
 | 汐洛、笙玖、笙凌、凌诺、guimc | 黄煜 |
 | MecoModer | 宁世鑫 |
 | GSCCSDSUN | 孙逸晟 |
-| SYER/FlyingMoleMan | 胡锦鑫 |
+| SYER、FlyingMoleMan | 胡锦鑫 |
+| 默然、moran | 何伟林 |
+| 吕子乔 | 吕乐驰 |
+| 李毅、lost | 梁毅亮 |
+| 解决鸭子, jiejueduck、d2ck | 陈嘉俊 |
+| 完美、Perfect | 曹家豪 |
+| 小手冰凉，cool | 叶德程 |
+| DSJ (2926505295) | 林璟 |
 
 ## 格式与收录准则
 
