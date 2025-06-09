@@ -35,13 +35,15 @@
 | MecoModer | 宁世鑫 |
 | GSCCSDSUN | 孙逸晟 |
 | SYER、FlyingMoleMan | 胡锦鑫 |
-| 默然、moran | 何伟林 |
+| 默然、moran | 何伟霖 |
 | 吕子乔 | 吕乐驰 |
 | 李毅、lost | 梁毅亮 |
 | 解决鸭子, jiejueduck、d2ck | 陈嘉俊 |
 | 完美、Perfect | 曹家豪 |
 | 小手冰凉，cool | 叶德程 |
-| DSJ (2926505295) | 林璟 |
+| DSJ | 林璟 |
+| 苦小怕 | 郑浩臻 |
+| Maple | 杨俊熙 |
 
 ## 格式与收录准则
 
