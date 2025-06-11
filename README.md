@@ -38,12 +38,14 @@
 | 默然、moran | 何伟霖 |
 | 吕子乔 | 吕乐驰 |
 | 李毅、lost | 梁毅亮 |
-| 解决鸭子, jiejueduck、d2ck | 陈嘉俊 |
+| 解决鸭子, jiejueduck、d3Ck | 陈嘉俊 |
 | 完美、Perfect | 曹家豪 |
 | 小手冰凉，cool | 叶德程 |
 | DSJ | 林璟 |
 | 苦小怕 | 郑浩臻 |
 | Maple | 杨俊熙 |
+| 苏辰 | 白志军 |
+| ccking | 陈伟杰 |
 
 ## 格式与收录准则
 
